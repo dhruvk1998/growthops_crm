@@ -92,3 +92,11 @@ See `DEPLOYMENT_REPORT.md` for exact local verification and remaining checks. No
 - [Cron usage, precision and plan limits](https://vercel.com/docs/cron-jobs/usage-and-pricing)
 - [Cron behavior and failures](https://vercel.com/docs/cron-jobs)
 - [Vercel Hobby non-commercial restriction](https://vercel.com/docs/plans/hobby)
+
+
+
+
+
+
+Supabase: https://supabase.com/dashboard/project/biglmdldgoqojvxdhiiv
+CRM: https://growthopscrm.lovable.app/login
